@@ -3,7 +3,7 @@
 
 ## I'm a junior FrontEnd Developer
 - 💪 I like to write code
-- 💪 I like to the gym
+- 💪 I like the gym
 
 
 ### Languages and Tools:
@@ -28,7 +28,7 @@
 <br />
 <br />
 
-### Pet project:
+### Pet projects:
 <!-- BLOG-POST-LIST:START -->
 - [Добавление пользователя.](https://github.com/max-kusov/create-user) Стек: React, Redux
 - [Марвел, практика работы с API.](https://github.com/max-kusov/marvel) Стек: React, API
