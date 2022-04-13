@@ -30,6 +30,7 @@
 
 ### Pet projects:
 <!-- BLOG-POST-LIST:START -->
+- [Добавление пользователя.](https://github.com/max-kusov/roox_company) Стек: React(hook, custom hooks), Redux, TypeScript, работа с API
 - [Добавление пользователя.](https://github.com/max-kusov/create-user) Стек: React, Redux
 - [Марвел, практика работы с API.](https://github.com/max-kusov/marvel) Стек: React, API
 - [Сотрудники.](https://github.com/max-kusov/employees) Стек: React
