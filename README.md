@@ -30,11 +30,10 @@
 
 ### Pet projects:
 <!-- BLOG-POST-LIST:START -->
+- [Магазин мужской одежды.](https://github.com/max-kusov/my-shop) Стек: TypeScript, Redux-Toolkit, React Router v6, AXIOS, React Hooks, работа с API, SCSS и т.д
 - [Roox company.](https://github.com/max-kusov/roox_company) Стек: React(hook, custom hooks), Redux, TypeScript, работа с API
 - [Добавление пользователя.](https://github.com/max-kusov/create-user) Стек: React, Redux
-- [Марвел, практика работы с API.](https://github.com/max-kusov/marvel) Стек: React, API
-- [Сотрудники.](https://github.com/max-kusov/employees) Стек: React
-- [Сайт моей жены "Фотографа".](https://github.com/max-kusov/kusova_ph) Первый проект на JS. Стек: HTML, CSS, JS
+- [Сайт "Фотографа".](https://github.com/max-kusov/kusova_ph) Первый проект на JS. Стек: HTML, CSS, JS
 <!-- BLOG-POST-LIST:END -->
 
 
