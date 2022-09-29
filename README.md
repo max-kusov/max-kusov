@@ -30,6 +30,8 @@
 
 ### Pet projects:
 <!-- BLOG-POST-LIST:START -->
+- [Сайт для Самарской Мебельной Фабрики.](https://github.com/max-kusov/bio-smr) !!!В процессе разработки и рефакторинга!!!
+- [Форма авторизации.](https://github.com/max-kusov/auth) Стек: TypeScript, Redux-Toolkit, React Router v6, React Hooks, Firebase, SCSS(CSS-Modules)
 - [Магазин мужской одежды.](https://github.com/max-kusov/my-shop) Стек: TypeScript, Redux-Toolkit, React Router v6, AXIOS, React Hooks, работа с API, SCSS и т.д
 - [Roox company.](https://github.com/max-kusov/roox_company) Стек: React(hook, custom hooks), Redux, TypeScript, работа с API
 - [Добавление пользователя.](https://github.com/max-kusov/create-user) Стек: React, Redux
